@@ -2,7 +2,7 @@
 
 # To build a project chat with audio using LLM using these packages and libraries, you would follow these steps:
 # 1 Install the required packages and libraries. You can do this using pip:
-# pip install streamlit dotenv requests pytube langchain assemblyai chromadb
+# pip install streamlit dotenv requests pytube langchain assemblyai openai chromadb
 # 2 Create a python virtual environment .venv file. Create a .env file. This file will store your environment variables, such as your 
 # AssemblyAI API key, Open AI Key and your ChromaDB connection string.
 # 3 Create a Streamlit app. This app will be responsible for handling the chat interface and the audio processing.
